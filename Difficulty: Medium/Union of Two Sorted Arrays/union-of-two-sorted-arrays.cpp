@@ -9,22 +9,29 @@ class Solution{
     //arr1,arr2 : the arrays
     // n, m: size of arrays
     //Function to return a list containing the union of the two arrays. 
-    vector<int> findUnion(int arr1[], int arr2[], int n, int m)
+    vector<int>findUnion(int arr1[], int arr2[], int n, int m)
     {
         //Your code here
         //return vector with correct order of elements
-        map<int , int>mpp;
+        // vector<int>result;
+        // map<int , int>mpp;
+        set<int>s1;
+        vector<int>Union;
         for(int i=0;i<n;i++){
-            mpp[arr1[i]];
+            s1.insert(arr1[i]);
         }
         for(int j=0;j<m;j++){
-            mpp[arr2[j]];
+            s1.insert(arr2[j]);
         }
-        for(auto it= mpp.begin(); it !=mpp.end();++it){
-            cout<<it->first<<" ";
+        // for(auto &it : mpp){
+        //     result.push_back(it.first);
+            // cout<<it->first<<" ";
+            for(auto &it : s1){
+                Union.push_back(it);
         }
-        return {};
-    }
+        return Union;
+            }
+
 };
 
 //{ Driver Code Starts.
