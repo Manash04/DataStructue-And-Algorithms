@@ -6,27 +6,26 @@ using namespace std;
 // } Driver Code Ends
 class Solution{
     public:
-    int lenOfLongSubarr(int A[],  int N, int K) 
-    { 
-        // Complete the function
-        int maxlen=0;
-        long long sum=0;
+    int lenOfLongSubarr(int A[],  int N, int K) {
+           int maxlen=0;
+        long long sum =0;
         map<long long, int>preSumMap;
-        for(int i=0; i<N;i++){
+        for(int i=0;i<N;i++){
             sum+=A[i];
-            if(sum==K){
-                maxlen=max(maxlen,i+1);
-            }
-            long long rem = sum -K;
-            if(preSumMap.find(rem)!=preSumMap.end()){
-                int len=i-preSumMap[rem];
-                maxlen=max(maxlen,len);
-            }
-            if(preSumMap.find(sum)==preSumMap.end()){
-                preSumMap[sum]=i;
-            }
-        }return maxlen;
-    } 
+        
+        if(sum==K){
+            maxlen=max(maxlen,i+1);
+        }
+        long long rem= sum -K;
+        if(preSumMap.find(rem)!=preSumMap.end()){
+            maxlen=max(maxlen,i-preSumMap[rem]);
+        }
+        if(preSumMap.find(sum)==preSumMap.end()){
+            preSumMap[sum]=i;
+        }
+}return maxlen;
+        }
+
 
 };
 
