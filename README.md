@@ -30,3 +30,19 @@ Contributions to this repository are welcome! If you have solutions to problems 
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the contents of this repository for any purpose, subject to the terms specified in the license.
 
 Happy coding!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0053-maximum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0053-maximum-subarray) |
+<!---LeetCode Topics End-->
