@@ -38,6 +38,7 @@ Happy coding!
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -56,4 +57,12 @@ Happy coding!
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
