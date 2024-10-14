@@ -44,6 +44,7 @@ Happy coding!
 | [0118-pascals-triangle](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -71,6 +72,7 @@ Happy coding!
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -90,4 +92,12 @@ Happy coding!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
