@@ -37,6 +37,7 @@ Happy coding!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0053-maximum-subarray) |
@@ -62,6 +63,7 @@ Happy coding!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -98,6 +100,7 @@ Happy coding!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
