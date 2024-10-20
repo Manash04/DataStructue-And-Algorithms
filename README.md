@@ -74,6 +74,7 @@ Happy coding!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
@@ -95,6 +96,7 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
 ## Sorting
 |  |
@@ -106,4 +108,8 @@ Happy coding!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
