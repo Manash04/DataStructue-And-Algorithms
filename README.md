@@ -42,6 +42,7 @@ Happy coding!
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ Happy coding!
 | ------- |
 | [0015-3sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
