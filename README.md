@@ -50,12 +50,14 @@ Happy coding!
 | [0128-longest-consecutive-sequence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,4 +121,24 @@ Happy coding!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
