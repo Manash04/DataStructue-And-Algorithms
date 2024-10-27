@@ -52,6 +52,7 @@ Happy coding!
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -125,6 +126,7 @@ Happy coding!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0792-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
