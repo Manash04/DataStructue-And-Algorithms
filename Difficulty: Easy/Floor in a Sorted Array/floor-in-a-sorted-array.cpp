@@ -8,13 +8,17 @@ class Solution {
   public:
   
     int findFloor(vector<long long> &v, long long n, long long x) {
-        int res=-1;
-        for(int i=0;i<n;i++){
-           if(v[i]<=x) res=i; 
-        else
-            break;
-        
-    }return res;
+        int low=0, high = n-1, res=-1;
+        while(low<=high){
+           int mid=(low+high)/2;
+            if(v[mid]==x) return mid;
+            else if(v[mid]<x){
+                low = mid+1;
+            res= mid;    
+            } 
+            else 
+            high=mid-1;
+        }return res;
 
     }
 };
