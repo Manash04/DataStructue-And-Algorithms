@@ -56,6 +56,7 @@ Happy coding!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0792-binary-search) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -136,6 +137,7 @@ Happy coding!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0792-binary-search) |
 ## Binary Indexed Tree
 |  |
