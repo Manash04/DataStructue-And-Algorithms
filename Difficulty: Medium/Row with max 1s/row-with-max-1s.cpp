@@ -10,25 +10,21 @@ class Solution {
     int rowWithMax1s(vector<vector<int> > &arr) {
         int n=arr.size();
         int m=arr[0].size();
-        int maxCount = INT_MIN, maxInd=-1;
-        for(int i=0;i<n;i++){
-        int low=0, high = m-1;
+        int low=0 , high = m-1;
+        int maxInd = -1;
         while(low<=high){
+        bool status =false;
             int mid = (low+high)/2;
-            if(arr[i][mid]==1){
-                high=mid-1;
-                if(m-mid > maxCount){
-                    maxCount = m-mid;
-                    maxInd = i;
-                }
-            }else{
-                low=mid+1;
+            for(int i=0; i<n;i++){
+                if(arr[i][mid]==1){
+                    maxInd=i;
+                    high =mid-1;
+                    status = true;
+                    break;
+                } 
             }
-        }
-            
+            if(status==false) low = mid+1;
         }return maxInd;
-        
-
     }
 };
 
