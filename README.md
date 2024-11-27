@@ -91,6 +91,7 @@ Happy coding!
 | [0018-4sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -144,6 +145,7 @@ Happy coding!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [3451-string-compression-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3451-string-compression-iii) |
 ## Binary Search
