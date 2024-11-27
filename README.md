@@ -129,6 +129,7 @@ Happy coding!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
+| [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Happy coding!
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [3451-string-compression-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3451-string-compression-iii) |
 ## Binary Search
 |  |
@@ -189,6 +191,7 @@ Happy coding!
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
