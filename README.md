@@ -66,6 +66,7 @@ Happy coding!
 | [0907-koko-eating-bananas](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
@@ -92,6 +93,7 @@ Happy coding!
 | [0031-next-permutation](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -106,6 +108,7 @@ Happy coding!
 | [0128-longest-consecutive-sequence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -138,6 +141,7 @@ Happy coding!
 | [0056-merge-intervals](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Counting
 |  |
 | ------- |
@@ -169,6 +173,7 @@ Happy coding!
 | [0907-koko-eating-bananas](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
