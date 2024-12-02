@@ -94,6 +94,7 @@ Happy coding!
 | [0088-merge-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -159,6 +160,7 @@ Happy coding!
 | [0242-valid-anagram](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [3451-string-compression-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3451-string-compression-iii) |
 ## Binary Search
@@ -216,4 +218,5 @@ Happy coding!
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
