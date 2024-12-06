@@ -118,6 +118,7 @@ Happy coding!
 | [0451-sort-characters-by-frequency](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Happy coding!
 | ------- |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ Happy coding!
 | [0812-rotate-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
