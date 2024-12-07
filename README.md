@@ -69,6 +69,7 @@ Happy coding!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1646-kth-missing-positive-number) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -203,6 +204,7 @@ Happy coding!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1646-kth-missing-positive-number) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Indexed Tree
