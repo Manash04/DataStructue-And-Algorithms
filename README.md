@@ -75,6 +75,7 @@ Happy coding!
 | [2232-adding-spaces-to-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Happy coding!
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [3427-special-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3427-special-array-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Happy coding!
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3427-special-array-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
