@@ -76,6 +76,7 @@ Happy coding!
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3427-special-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3427-special-array-ii) |
 ## Divide and Conquer
 |  |
@@ -113,6 +114,7 @@ Happy coding!
 | [2232-adding-spaces-to-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Happy coding!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Prefix Sum
 |  |
@@ -166,6 +169,7 @@ Happy coding!
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Counting
 |  |
 | ------- |
@@ -261,6 +265,7 @@ Happy coding!
 | [0451-sort-characters-by-frequency](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Bucket Sort
 |  |
 | ------- |
