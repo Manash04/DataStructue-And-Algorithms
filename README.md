@@ -75,6 +75,7 @@ Happy coding!
 | [2164-two-best-non-overlapping-events](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2358-number-of-ways-to-split-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -142,6 +143,7 @@ Happy coding!
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3427-special-array-ii) |
 ## Union Find
