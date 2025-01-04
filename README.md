@@ -307,9 +307,14 @@ Happy coding!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
