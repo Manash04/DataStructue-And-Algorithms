@@ -107,6 +107,7 @@ Happy coding!
 | [0018-4sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -130,6 +131,7 @@ Happy coding!
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0242-valid-anagram) |
@@ -313,6 +315,7 @@ Happy coding!
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
