@@ -110,6 +110,7 @@ Happy coding!
 | [0088-merge-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -277,6 +278,7 @@ Happy coding!
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
@@ -320,6 +322,7 @@ Happy coding!
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -329,4 +332,5 @@ Happy coding!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
