@@ -84,6 +84,7 @@ Happy coding!
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2868-continuous-subarrays) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3427-special-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
@@ -223,6 +224,7 @@ Happy coding!
 | [2691-count-vowel-strings-in-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3451-string-compression-iii) |
 ## Binary Search
 |  |
@@ -284,12 +286,14 @@ Happy coding!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -333,4 +337,12 @@ Happy coding!
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
