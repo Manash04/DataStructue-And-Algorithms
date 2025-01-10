@@ -64,6 +64,7 @@ Happy coding!
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -145,6 +146,7 @@ Happy coding!
 | [0242-valid-anagram](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -216,6 +218,7 @@ Happy coding!
 | [0242-valid-anagram](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [1524-string-matching-in-an-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
