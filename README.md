@@ -184,6 +184,7 @@ Happy coding!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
@@ -342,6 +343,7 @@ Happy coding!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0148-sort-list) |
@@ -356,6 +358,7 @@ Happy coding!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Rolling Hash
