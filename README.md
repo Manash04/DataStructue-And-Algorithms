@@ -58,6 +58,7 @@ Happy coding!
 | [0162-find-peak-element](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
@@ -187,6 +188,7 @@ Happy coding!
 | [0073-set-matrix-zeroes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 ## Math
@@ -330,6 +332,7 @@ Happy coding!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
@@ -397,6 +400,7 @@ Happy coding!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
