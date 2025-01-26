@@ -210,6 +210,7 @@ Happy coding!
 | [0002-add-two-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
@@ -389,6 +390,7 @@ Happy coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -399,6 +401,7 @@ Happy coding!
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 ## Rolling Hash
 |  |
