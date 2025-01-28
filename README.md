@@ -92,6 +92,7 @@ Happy coding!
 | [2691-count-vowel-strings-in-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2868-continuous-subarrays) |
@@ -188,6 +189,7 @@ Happy coding!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
@@ -204,6 +206,7 @@ Happy coding!
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -424,6 +427,7 @@ Happy coding!
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1876-map-of-highest-peak) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
@@ -442,6 +446,7 @@ Happy coding!
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
