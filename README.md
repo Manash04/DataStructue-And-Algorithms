@@ -75,6 +75,7 @@ Happy coding!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1646-kth-missing-positive-number) |
 | [1876-map-of-highest-peak](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1876-map-of-highest-peak) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
