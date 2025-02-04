@@ -79,6 +79,7 @@ Happy coding!
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
