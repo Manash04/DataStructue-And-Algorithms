@@ -48,6 +48,7 @@ Happy coding!
 | [0056-merge-intervals](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0118-pascals-triangle) |
@@ -409,6 +410,7 @@ Happy coding!
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -471,4 +473,8 @@ Happy coding!
 | [0820-find-eventual-safe-states](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
