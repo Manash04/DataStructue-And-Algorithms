@@ -1,20 +1,29 @@
 class Solution {
 public:
-vector<int>generateRows(int rows){
-    vector<int>ansRows;
-    long long ans =1;
-    ansRows.push_back(ans);
-    for(int col=1; col<rows; col++){
-        ans= ans*(rows-col);
-        ans=ans/col;
-        ansRows.push_back(ans);
-    }return ansRows;
+    // long long nCr(int n, int r) {
+    //     long long result = 1;
+    //     for (int i = 0; i < r; i++) {
+    //         result = result * (n - i) / (i + 1); 
+    //     }
+    //     return result;
+    // }
 
-}
+    vector<int>cal(int row){
+        vector<int>temp;
+        long long ans =1;
+        temp.push_back(1);
+        for(int i=1; i<row; i++){
+        ans = ans* (row - i)/i;
+        temp.push_back(ans);
+        }
+        return temp;
+    }
+
     vector<vector<int>> generate(int numRows) {
         vector<vector<int>> ans;
-        for (int i = 1; i <= numRows; i++) {
-            ans.push_back(generateRows(i));
-        }return ans;
+        for (int i = 1; i <= numRows; i++) { 
+           ans.push_back(cal(i));
+        }
+        return ans;
     }
 };
