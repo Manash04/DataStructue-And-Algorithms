@@ -225,6 +225,7 @@ Happy coding!
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
@@ -425,6 +426,7 @@ Happy coding!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
