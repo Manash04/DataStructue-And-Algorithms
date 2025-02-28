@@ -58,6 +58,7 @@ Happy coding!
 | [0152-maximum-product-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0407-trapping-rain-water-ii) |
@@ -224,6 +225,7 @@ Happy coding!
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -477,4 +479,12 @@ Happy coding!
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
