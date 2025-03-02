@@ -1,44 +1,38 @@
 class Solution {
 public:
-    bool isDigit(char ch) {
-        return ch >= '0' && ch <= '9';
-    }
-
-    int myAtoi(std::string s) {
-        int len = s.size();
-        bool isnegative = false;
-
-        if (len == 0)
-            return 0;
-
+    int myAtoi(string s) {
         int i = 0;
-        // Skip leading whitespace
-        while (i < len && s[i] == ' ') {
+        int n = s.length();
+        
+        while (i < n && s[i] == ' ') {
             i++;
         }
-
-        // Check for sign
-        if (i < len && s[i] == '-') {
-            isnegative = true;
-            i++;
-        } else if (i < len && s[i] == '+') {
+        
+        if (i == n) {
+            return 0;
+        }
+        
+        bool negative = false;
+        if (s[i] == '-' || s[i] == '+') {
+            negative = (s[i] == '-');
             i++;
         }
-
-        int result = 0;
-        // Process digits
-        while (i < len && isDigit(s[i])) {
-            int digit = s[i] - '0';
-
-            // Check for overflow
-            if (result > (INT_MAX / 10) || (result == (INT_MAX / 10) && digit > 7)) {
-                return isnegative ? INT_MIN : INT_MAX;
+        
+        long long digit = 0;
+        while (i < n && s[i] >= '0' && s[i] <= '9') {
+            digit = digit * 10 + (s[i] - '0');
+            
+            if (negative && -digit < INT_MIN) {
+                return INT_MIN;
             }
-
-            result = (result * 10) + digit;
+            
+            if (!negative && digit > INT_MAX) {
+                return INT_MAX;
+            }
+            
             i++;
         }
-
-        return isnegative ? -result : result;
+        
+        return negative ? -digit : digit;
     }
 };
