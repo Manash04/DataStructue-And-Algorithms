@@ -229,6 +229,7 @@ Happy coding!
 | [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2050-count-good-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
 |  |
@@ -430,6 +431,7 @@ Happy coding!
 | [0206-reverse-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2050-count-good-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
