@@ -491,4 +491,8 @@ Happy coding!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
