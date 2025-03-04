@@ -42,17 +42,39 @@ cout << "~" << "\n";
 // } Driver Code Ends
 
 
+/*The structure of the class is
+class SortedStack{
+public:
+	stack<int> s;
+	void sort();
+};
+*/
+
+/* The below method sorts the stack s 
+you are required to complete the below method */
+void sortedInsert(stack<int>&s , int num){
+if(s.empty() || s.top()<=num){
+    s.push(num);
+    return;
+}
+
+    int temp = s.top();
+    s.pop();
+    sortedInsert(s,num);
+    s.push(temp);
+}
+
+
+void sorted(stack<int>&s){
+    if(s.empty()) return;
+    int temp = s.top();
+    s.pop();
+    sorted(s);
+    sortedInsert(s,temp);
+}
+
 void SortedStack :: sort()
 {
-priority_queue<int, vector<int>,greater<int>> pq;  
-while(!s.empty()){
-       int temp = s.top();
-       pq.push(temp);
-       s.pop();
-   }
-   while(!pq.empty()){
-       int temp = pq.top();
-       s.push(temp);
-       pq.pop();
-   }
+sorted(s);
+
 }
