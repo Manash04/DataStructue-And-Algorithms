@@ -1,17 +1,21 @@
 class Solution {
 public:
+void calc(vector<int>&nums , vector<vector<int>>&result , int n , int ind , vector<int>&temp){
+      if(ind == n){
+        result.push_back(temp);
+        return;
+      }
+      calc(nums , result , n , ind+1 , temp);
+      temp.push_back(nums[ind]);
+      calc(nums , result , n , ind+1 , temp);
+      temp.pop_back();
+}
     vector<vector<int>> subsets(vector<int>& nums) {
+        vector<vector<int>>result;
+        int ind=0;
         int n = nums.size();
-        int subsets = (1<<n);
-        vector<vector<int>>ans;
-        for(int i=0; i<subsets; i++){
-            vector<int>temp;
-            for(int j=0; j<n;j++){
-                if(i&(1<<j)){
-                    temp.push_back(nums[j]);
-                }
-            }
-            ans.push_back(temp);
-        }return ans;
+             vector<int>temp;
+        calc(nums , result , n , ind , temp);
+        return result;
     }
 };
