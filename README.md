@@ -168,6 +168,7 @@ Happy coding!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0037-sudoku-solver) |
@@ -275,6 +276,7 @@ Happy coding!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0014-longest-common-prefix) |
@@ -404,6 +406,7 @@ Happy coding!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2868-continuous-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
