@@ -76,6 +76,7 @@ Happy coding!
 | [0792-binary-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
+| [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -199,6 +200,7 @@ Happy coding!
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -327,6 +329,7 @@ Happy coding!
 | [0540-single-element-in-a-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -407,6 +410,7 @@ Happy coding!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2868-continuous-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
