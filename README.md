@@ -79,6 +79,7 @@ Happy coding!
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -187,6 +188,7 @@ Happy coding!
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -205,6 +207,7 @@ Happy coding!
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -249,6 +252,7 @@ Happy coding!
 | [0050-powx-n](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2050-count-good-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -418,6 +422,7 @@ Happy coding!
 | [0424-longest-repeating-character-replacement](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2868-continuous-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2868-continuous-subarrays) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
