@@ -77,6 +77,7 @@ Happy coding!
 | [0907-koko-eating-bananas](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -188,6 +189,7 @@ Happy coding!
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -278,6 +280,7 @@ Happy coding!
 | ------- |
 | [0229-majority-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -423,6 +426,7 @@ Happy coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1460-number-of-substrings-containing-all-three-characters) |
