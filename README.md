@@ -388,6 +388,7 @@ Happy coding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -559,4 +560,8 @@ Happy coding!
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1908-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
