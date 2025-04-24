@@ -78,6 +78,7 @@ Happy coding!
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0907-koko-eating-bananas) |
+| [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
@@ -140,6 +141,7 @@ Happy coding!
 | [0131-palindrome-partitioning](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 ## Two Pointers
 |  |
@@ -399,6 +401,7 @@ Happy coding!
 | [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3447-clear-digits) |
@@ -579,4 +582,5 @@ Happy coding!
 | [0042-trapping-rain-water](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
