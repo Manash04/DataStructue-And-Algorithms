@@ -103,6 +103,7 @@ Happy coding!
 | [2047-find-a-peak-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
+| [2227-sum-of-subarray-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -407,6 +408,7 @@ Happy coding!
 | [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 | [3447-clear-digits](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3447-clear-digits) |
 ## Trie
 |  |
@@ -586,4 +588,5 @@ Happy coding!
 | [0496-next-greater-element-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
