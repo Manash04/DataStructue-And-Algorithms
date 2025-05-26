@@ -149,6 +149,7 @@ Happy coding!
 | [0131-palindrome-partitioning](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [2164-two-best-non-overlapping-events](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2164-two-best-non-overlapping-events) |
 ## Two Pointers
@@ -324,6 +325,7 @@ Happy coding!
 | [0402-remove-k-digits](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
@@ -401,6 +403,7 @@ Happy coding!
 | [0402-remove-k-digits](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0890-lemonade-change) |
 | [1502-construct-k-palindrome-strings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1917-maximum-average-pass-ratio) |
@@ -420,6 +423,7 @@ Happy coding!
 | [0402-remove-k-digits](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
