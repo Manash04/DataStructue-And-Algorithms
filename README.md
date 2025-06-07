@@ -224,6 +224,7 @@ Happy coding!
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -353,6 +354,7 @@ Happy coding!
 | [2292-counting-words-with-a-given-prefix](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2465-shifting-letters-ii) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -423,6 +425,7 @@ Happy coding!
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2509-minimize-xor) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Stack
 |  |
@@ -442,6 +445,7 @@ Happy coding!
 | [1078-remove-outermost-parentheses](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3447-clear-digits](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3447-clear-digits) |
 ## Trie
 |  |
