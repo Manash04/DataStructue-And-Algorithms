@@ -434,6 +434,7 @@ Happy coding!
 | [0042-trapping-rain-water](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0402-remove-k-digits) |
@@ -575,6 +576,7 @@ Happy coding!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1558-course-schedule-iv) |
@@ -633,4 +635,12 @@ Happy coding!
 | [0503-next-greater-element-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2227-sum-of-subarray-ranges) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
