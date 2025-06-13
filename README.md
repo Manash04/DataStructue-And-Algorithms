@@ -584,6 +584,7 @@ Happy coding!
 | [0110-balanced-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0820-find-eventual-safe-states](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1558-course-schedule-iv) |
@@ -650,6 +651,7 @@ Happy coding!
 | [0110-balanced-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -658,4 +660,5 @@ Happy coding!
 | [0110-balanced-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
