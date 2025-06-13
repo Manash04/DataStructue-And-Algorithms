@@ -557,6 +557,7 @@ Happy coding!
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0820-find-eventual-safe-states) |
@@ -581,6 +582,7 @@ Happy coding!
 | ------- |
 | [0079-word-search](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -649,6 +651,7 @@ Happy coding!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -659,6 +662,7 @@ Happy coding!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
