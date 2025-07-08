@@ -6,28 +6,32 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
 class Solution {
-
-    void dfs(TreeNode* node , vector<int>&ds , int level){
-        if(node==NULL){
-            return;
-        }
-        if(ds.size() == level){
-            ds.push_back(node->val);
-        }
-        dfs(node->right , ds , level+1);
-        dfs(node->left , ds , level+1);
-        return;
-    }
 public:
     vector<int> rightSideView(TreeNode* root) {
-        TreeNode* node = root;
-        vector<int>ds;
-        int level =0;
-        dfs(node , ds , level);
-        return ds;
+        if (!root)
+            return {};
+        vector<int> ans;
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            int m = q.size();
+            TreeNode* node = NULL;
+            for (int i = 0; i < m; i++) {
+                node = q.front();
+                q.pop();
+                if (node->left){
+                    q.push(node->left);
+                }
+                if (node->right){
+                    q.push(node->right);
+                }
+            }
+            ans.push_back(node->val);
+        }return ans;
     }
 };
