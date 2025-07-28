@@ -93,6 +93,7 @@ Happy coding!
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
@@ -270,6 +271,7 @@ Happy coding!
 | [0085-maximal-rectangle](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0407-trapping-rain-water-ii) |
+| [1036-rotting-oranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1876-map-of-highest-peak) |
@@ -570,6 +572,7 @@ Happy coding!
 | [0547-number-of-provinces](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1036-rotting-oranges) |
 | [1396-count-servers-that-communicate](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1558-course-schedule-iv) |
