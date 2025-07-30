@@ -609,6 +609,7 @@ Happy coding!
 | [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0547-number-of-provinces) |
@@ -687,6 +688,7 @@ Happy coding!
 | [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
@@ -706,6 +708,7 @@ Happy coding!
 | [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
@@ -718,5 +721,6 @@ Happy coding!
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
