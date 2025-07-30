@@ -687,6 +687,7 @@ Happy coding!
 | [0199-binary-tree-right-side-view](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -704,9 +705,14 @@ Happy coding!
 | [0199-binary-tree-right-side-view](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
