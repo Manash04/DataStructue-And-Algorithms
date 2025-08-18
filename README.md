@@ -384,6 +384,7 @@ Happy coding!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0493-reverse-pairs) |
@@ -539,6 +540,7 @@ Happy coding!
 | [0078-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -697,6 +699,7 @@ Happy coding!
 | [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -720,6 +723,7 @@ Happy coding!
 | [0144-binary-tree-preorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
