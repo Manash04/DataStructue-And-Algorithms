@@ -194,6 +194,7 @@ Happy coding!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1642-water-bottles) |
 | [2232-adding-spaces-to-a-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -298,6 +299,7 @@ Happy coding!
 | [0204-count-primes](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0231-power-of-two) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1370-count-number-of-nice-subarrays) |
+| [1642-water-bottles](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/2050-count-good-numbers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
