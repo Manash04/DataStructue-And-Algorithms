@@ -95,6 +95,7 @@ Happy coding!
 | [0907-koko-eating-bananas](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1020-number-of-enclaves](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
@@ -229,6 +230,7 @@ Happy coding!
 | [0560-subarray-sum-equals-k](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Manash04/DataStructue-And-Algorithms/tree/master/1034-subarrays-with-k-different-integers) |
